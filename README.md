@@ -9,8 +9,6 @@ Welcome to the Snake Game, a classic and entertaining game built with JavaScript
   - [Getting Started](#getting-started)
   - [Game Controls](#game-controls)
   - [Features](#features)
-  - [Contributing](#contributing)
-  - [License](#license)
 
 ## Getting Started
 
@@ -38,7 +36,7 @@ Please note that the snake cannot make a direct 180-degree turn (e.g., from movi
 - Food appears randomly on the game grid.
 - Game over screen with final score displayed.
 - Option to restart the game after a game over.
-
+<!-- 
 ## Contributing
 
 Contributions to this project are welcomed and encouraged! If you'd like to make improvements, fix bugs, or add new features, please follow these steps:
@@ -50,6 +48,8 @@ Contributions to this project are welcomed and encouraged! If you'd like to make
 
 ## License
 
-This Snake Game is released under the [MIT License](https://opensource.org/licenses/MIT). Please see the `LICENSE` file for more information.
+This Snake Game is released under the [MIT License](https://opensource.org/licenses/MIT). Please see the `LICENSE` file for more information. -->
+<!-- ## Enjoy the game!
+Enjoy the game, and happy coding! -->
 
-Enjoy the game, and happy coding!
+Enjoy the game! Have fun!

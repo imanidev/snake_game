@@ -6,21 +6,20 @@ Welcome to the Snake Game, a classic and entertaining game built with JavaScript
 
 - [Snake Game - JavaScript](#snake-game---javascript)
   - [Table of Contents](#table-of-contents)
-  - [Getting Started](#getting-started)
   - [Game Controls](#game-controls)
   - [Features](#features)
 
-## Getting Started
+<!-- ## Getting Started
 
 To get started with the game, follow these simple steps:
 
 1. Clone or download the repository to your local machine.
 2. Open the `index.html` file in your favorite web browser.
-3. Start playing and have fun!
+3. Start playing and have fun! -->
 
 ## Game Controls
 
-The Snake Game is controlled using the arrow keys on your keyboard:
+The Snake Game is controlled by using the arrow keys on your keyboard:
 
 - **Up Arrow**: Move the snake upwards.
 - **Down Arrow**: Move the snake downwards.
